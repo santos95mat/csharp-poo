@@ -1,0 +1,15 @@
+C:\Developer\Matheus\C#\csharp-poo\bin\Debug\net8.0\csharp-poo.exe
+C:\Developer\Matheus\C#\csharp-poo\bin\Debug\net8.0\csharp-poo.deps.json
+C:\Developer\Matheus\C#\csharp-poo\bin\Debug\net8.0\csharp-poo.runtimeconfig.json
+C:\Developer\Matheus\C#\csharp-poo\bin\Debug\net8.0\csharp-poo.dll
+C:\Developer\Matheus\C#\csharp-poo\bin\Debug\net8.0\csharp-poo.pdb
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.AssemblyInfoInputs.cache
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.AssemblyInfo.cs
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.csproj.CoreCompileInputs.cache
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.sourcelink.json
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.dll
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\refint\csharp-poo.dll
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.pdb
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\csharp-poo.genruntimeconfig.cache
+C:\Developer\Matheus\C#\csharp-poo\obj\Debug\net8.0\ref\csharp-poo.dll
